@@ -1,0 +1,89 @@
+version: '2'
+
+services:
+  codecept:
+    build:
+      context: docker/codeception
+      dockerfile: Dockerfile
+    depends_on:
+      - firefox
+      - chrome
+      - web
+    volumes_from:
+      - php
+    networks:
+      - front
+      - back
+
+  firefox:
+    image: selenium/standalone-firefox
+    ports:
+      - '4444'
+      - '5900'
+    links:
+      - web
+    networks:
+      - front
+      - back
+
+  chrome:
+    image: selenium/standalone-chrome
+    ports:
+      - '4444'
+      - '5900'
+    links:
+      - web
+    networks:
+      - front
+      - back
+
+  web:
+    image: nginx:latest
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes_from:
+      - php:ro
+    volumes:
+      - ./config/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./logs/nginx:/var/log/nginx
+    command: nginx -c /etc/nginx/nginx.conf
+    networks:
+      front:
+        aliases:
+          - dev.local
+      back:
+        aliases:
+          - dev.local
+
+  php:
+    build:
+      context: docker/php
+      dockerfile: Dockerfile
+    user: www-data
+    volumes:
+      - ./app:/var/www/html
+      - ./config/php/php.ini:/usr/local/etc/php/php.ini
+      - ./config/php/php-fpm.conf:/usr/local/etc/php-fpm.conf
+    networks:
+      - back
+
+  mysql:
+    image: mysql:5.6
+    env_file: .env
+    ports:
+      - "127.0.0.1:3306:3306"
+    volumes:
+      - magento-mysqldata:/var/lib/mysql
+    networks:
+      - back
+
+volumes:
+  magento-mysqldata:
+    driver: local
+
+networks:
+  front:
+    driver: bridge
+  back:
+    driver: bridge

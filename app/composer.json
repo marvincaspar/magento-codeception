@@ -1,0 +1,13 @@
+{
+  "name": "mc388/magento",
+  "require": {
+    "aydin-hassan/magento-core-composer-installer": "1.4.0",
+    "openmage/magento-lts": "1.9.3.x-dev",
+    "codeception/codeception": "~2.2",
+    "fzaninotto/faker": "~v1.6"
+  },
+  "extra": {
+    "magento-root-dir": "web/",
+    "magento-core-package-type": "magento-source"
+  }
+}

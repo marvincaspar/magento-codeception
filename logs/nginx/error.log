@@ -1,0 +1,843 @@
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php/" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [error] 5#5: *1 rewrite or internal redirection cycle while processing "/index.php", client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:39:58 [crit] 5#5: *2 open() "/var/www/html/favicon.ico" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "eventerza.dev.io", referrer: "http://eventerza.dev.io/index.php/"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [error] 5#5: *3 rewrite or internal redirection cycle while processing "/index.php", client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "eventerza.dev.io"
+2017/03/09 08:40:05 [crit] 5#5: *4 open() "/var/www/html/favicon.ico" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "eventerza.dev.io", referrer: "http://eventerza.dev.io/"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php/" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *1 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [error] 5#5: *1 rewrite or internal redirection cycle while processing "/index.php", client: 192.168.99.1, server: , request: "GET /index.php/ HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:14 [crit] 5#5: *2 open() "/var/www/html/favicon.ico" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "dev.local", referrer: "http://dev.local/index.php/"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *3 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [error] 5#5: *3 rewrite or internal redirection cycle while processing "/index.php", client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:22:17 [crit] 5#5: *4 open() "/var/www/html/favicon.ico" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "dev.local", referrer: "http://dev.local/index.php"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *5 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [error] 5#5: *5 rewrite or internal redirection cycle while processing "/index.php", client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:39 [crit] 5#5: *6 open() "/var/www/html/favicon.ico" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "dev.local", referrer: "http://dev.local/index.php"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [crit] 5#5: *7 stat() "/var/www/html/index.php" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:49 [error] 5#5: *7 rewrite or internal redirection cycle while processing "/index.php", client: 192.168.99.1, server: , request: "GET /index.php HTTP/1.1", host: "dev.local"
+2017/03/10 08:23:50 [crit] 5#5: *8 open() "/var/www/html/favicon.ico" failed (116: Stale file handle), client: 192.168.99.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "dev.local", referrer: "http://dev.local/index.php"
+2017/03/10 09:14:10 [error] 5#5: *52 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "dev.local", referrer: "http://dev.local/sale.html"
+2017/03/10 09:14:52 [error] 5#5: *61 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.25.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 09:15:21 [error] 5#5: *68 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.25.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 09:16:47 [error] 5#5: *75 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.25.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 09:20:52 [error] 5#5: *82 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.25.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 09:22:50 [error] 5#5: *89 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.25.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 12:29:46 [error] 5#5: *37 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 12:30:04 [error] 5#5: *46 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 12:32:08 [error] 5#5: *85 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/10 12:35:28 [error] 5#5: *95 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 07:26:45 [error] 5#5: *109 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 07:26:57 [error] 5#5: *121 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 07:27:06 [error] 5#5: *132 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 07:27:26 [error] 5#5: *140 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 07:27:36 [error] 5#5: *154 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 07:27:58 [error] 5#5: *160 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:05:51 [error] 5#5: *170 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:06:45 [error] 5#5: *185 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:12:28 [error] 5#5: *193 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/sale.html"
+2017/03/13 12:15:43 [error] 5#5: *205 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:17:27 [error] 5#5: *213 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:18:15 [error] 5#5: *224 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:19:12 [error] 5#5: *238 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:19:50 [error] 5#5: *250 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:20:04 [error] 5#5: *261 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:20:29 [error] 5#5: *272 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:21:30 [error] 5#5: *280 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:34:15 [error] 5#5: *313 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:35:33 [error] 5#5: *326 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:38:46 [error] 5#5: *356 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:43:04 [error] 5#5: *390 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:45:04 [error] 5#5: *413 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:46:01 [error] 5#5: *430 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:47:09 [error] 5#5: *454 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:48:48 [error] 5#5: *482 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/13 12:54:20 [error] 5#5: *504 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/14 06:23:01 [error] 5#5: *3 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/"
+2017/03/14 06:23:09 [error] 5#5: *3 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/"
+2017/03/14 06:23:26 [error] 5#5: *3 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/"
+2017/03/14 06:26:45 [error] 5#5: *36 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /racer-back-maxi-dress-608.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "web", referrer: "http://web/sale.html"
+2017/03/14 06:49:26 [error] 5#5: *4 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 06:49:45 [error] 5#5: *9 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 06:50:56 [error] 5#5: *24 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 06:51:15 [error] 5#5: *9 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/?___SID=U"
+2017/03/14 06:53:20 [error] 5#5: *44 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 06:57:07 [error] 5#5: *62 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 06:58:40 [error] 5#5: *73 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:01:02 [error] 5#5: *87 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:10:00 [error] 5#5: *97 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:10:41 [error] 5#5: *111 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:12:14 [error] 5#5: *127 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:12:56 [error] 5#5: *143 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:14:57 [error] 5#5: *150 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:18:23 [error] 5#5: *168 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:19:14 [error] 5#5: *182 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:19:34 [error] 5#5: *190 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:20:12 [error] 5#5: *198 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:22:02 [error] 5#5: *216 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:22:39 [error] 5#5: *229 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:23:39 [error] 5#5: *243 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:24:52 [error] 5#5: *254 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:25:26 [error] 5#5: *275 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:30:47 [error] 5#5: *295 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:35:43 [error] 5#5: *320 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:36:39 [error] 5#5: *344 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:37:05 [error] 5#5: *369 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:37:41 [error] 5#5: *391 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:52:11 [error] 5#5: *17 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:53:17 [error] 5#5: *7 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.4, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:53:29 [error] 5#5: *9 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.4, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 07:53:40 [error] 5#5: *19 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/index.php/"
+2017/03/14 08:07:49 [error] 5#5: *10 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/index.php/"
+2017/03/14 08:33:13 [error] 5#5: *46 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function getIdFieldName() on boolean in /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php:151
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php(180): Mage_Core_Model_Abstract->getIdFieldName()
+#1 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(920): Mage_Core_Model_Abstract->setId(1)
+#2 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(834): Mage_Core_Model_App->_getDefaultStore()
+#3 /var/www/html/web/app/Mage.php(361): Mage_Core_Model_App->getStore(NULL)
+#4 /var/www/html/web/app/Mage.php(800): Mage::getStoreConfig('dev/log/active')
+#5 /var/www/html/web/app/code/core/Mage/Core/functions.php(247): Mage::log('Warning: simple...', 3)
+#6 [internal function]: mageCoreErrorHandler(2, 'simplexml_load_...', '/var/www/html/w...', 510, Array)
+#7 /var/www/html/web/lib/Varien/Simplexml/Config.php(510): simplexml_load_string('<?xml version="...', 'Mage_Core_Model...')
+#8 /var/www/html/web/lib/Varien/Simp" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local"
+2017/03/14 08:33:15 [error] 5#5: *46 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function getIdFieldName() on boolean in /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php:151
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php(180): Mage_Core_Model_Abstract->getIdFieldName()
+#1 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(920): Mage_Core_Model_Abstract->setId(1)
+#2 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(834): Mage_Core_Model_App->_getDefaultStore()
+#3 /var/www/html/web/app/Mage.php(361): Mage_Core_Model_App->getStore(NULL)
+#4 /var/www/html/web/app/Mage.php(800): Mage::getStoreConfig('dev/log/active')
+#5 /var/www/html/web/app/code/core/Mage/Core/functions.php(247): Mage::log('Warning: simple...', 3)
+#6 [internal function]: mageCoreErrorHandler(2, 'simplexml_load_...', '/var/www/html/w...', 510, Array)
+#7 /var/www/html/web/lib/Varien/Simplexml/Config.php(510): simplexml_load_string('<?xml version="...', 'Mage_Core_Model...')
+#8 /var/www/html/web/lib/Varien/Simp" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local"
+2017/03/14 08:33:42 [error] 5#5: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function getIdFieldName() on boolean in /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php:151
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php(180): Mage_Core_Model_Abstract->getIdFieldName()
+#1 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(920): Mage_Core_Model_Abstract->setId(1)
+#2 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(834): Mage_Core_Model_App->_getDefaultStore()
+#3 /var/www/html/web/app/Mage.php(361): Mage_Core_Model_App->getStore(NULL)
+#4 /var/www/html/web/app/Mage.php(800): Mage::getStoreConfig('dev/log/active')
+#5 /var/www/html/web/app/code/core/Mage/Core/functions.php(247): Mage::log('Warning: simple...', 3)
+#6 [internal function]: mageCoreErrorHandler(2, 'simplexml_load_...', '/var/www/html/w...', 510, Array)
+#7 /var/www/html/web/lib/Varien/Simplexml/Config.php(510): simplexml_load_string('<?xml version="...', 'Mage_Core_Model...')
+#8 /var/www/html/web/lib/Varien/Simp" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local"
+2017/03/14 08:33:43 [error] 5#5: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function getIdFieldName() on boolean in /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php:151
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Core/Model/Abstract.php(180): Mage_Core_Model_Abstract->getIdFieldName()
+#1 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(920): Mage_Core_Model_Abstract->setId(1)
+#2 /var/www/html/web/app/code/core/Mage/Core/Model/App.php(834): Mage_Core_Model_App->_getDefaultStore()
+#3 /var/www/html/web/app/Mage.php(361): Mage_Core_Model_App->getStore(NULL)
+#4 /var/www/html/web/app/Mage.php(800): Mage::getStoreConfig('dev/log/active')
+#5 /var/www/html/web/app/code/core/Mage/Core/functions.php(247): Mage::log('Warning: simple...', 3)
+#6 [internal function]: mageCoreErrorHandler(2, 'simplexml_load_...', '/var/www/html/w...', 510, Array)
+#7 /var/www/html/web/lib/Varien/Simplexml/Config.php(510): simplexml_load_string('<?xml version="...', 'Mage_Core_Model...')
+#8 /var/www/html/web/lib/Varien/Simp" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local"
+2017/03/14 08:39:52 [warn] 5#5: *1 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 192.168.99.1, server: , request: "POST /index.php/admin/system_config/save/key/a5c03ec9ddb22d9ec1c0684e530802d1/section/general/ HTTP/1.1", host: "dev.local", referrer: "http://dev.local/index.php/admin/system_config/index/key/1c8402f785f834a607df3620987e5d2c/"
+2017/03/14 08:53:51 [error] 5#5: *49 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/index.php/"
+2017/03/14 08:55:15 [error] 5#5: *70 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 192.168.99.1, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/index.php/"
+2017/03/14 09:12:02 [error] 5#5: *19 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 09:13:21 [error] 5#5: *41 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 09:16:05 [error] 5#5: *64 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 09:17:57 [error] 5#5: *95 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 09:19:04 [error] 5#5: *114 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
+2017/03/14 09:24:57 [error] 5#5: *140 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught Error: Call to a member function setReviewFilter() on boolean in /var/www/html/web/app/code/core/Mage/Review/Model/Resource/Review/Collection.php:221
+Stack trace:
+#0 /var/www/html/web/app/code/core/Mage/Review/Block/Product/View/List.php(59): Mage_Review_Model_Resource_Review_Collection->addRateVotes()
+#1 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(922): Mage_Review_Block_Product_View_List->_beforeToHtml()
+#2 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(641): Mage_Core_Block_Abstract->toHtml()
+#3 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(585): Mage_Core_Block_Abstract->_getChildHtml('reviews', true)
+#4 /var/www/html/web/app/code/core/Mage/Core/Block/Abstract.php(845): Mage_Core_Block_Abstract->getChildHtml('reviews')
+#5 /var/www/html/web/app/design/frontend/rwd/default/template/catalog/product/view.phtml(176): Mage_Core_Block_Abstract->getChildGroup('detailed_info', 'getChildHtml')
+#6 /var/www/html/web/app/code/cor" while reading response header from upstream, client: 172.26.0.6, server: , request: "GET /lafayette-convertible-dress.html HTTP/1.1", upstream: "fastcgi://172.26.0.3:9000", host: "dev.local", referrer: "http://dev.local/"
