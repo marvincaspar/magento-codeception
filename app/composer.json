@@ -3,7 +3,7 @@
   "require": {
     "aydin-hassan/magento-core-composer-installer": "1.4.0",
     "openmage/magento-lts": "19.4.8",
-    "codeception/codeception": "~2.2",
+    "codeception/codeception": "~3.1",
     "fzaninotto/faker": "~v1.6"
   },
   "extra": {
